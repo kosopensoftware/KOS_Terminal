@@ -11,9 +11,9 @@ About [KOS] Terminal:
 [KOS] Terminal is part of the [KOS] System Operations family of software. This program is designed to help windows users use their systems more efficiently by allowing them to avoid using the windows operating system directly. Rather than using a mouse to click your way around your system, the [KOS] Terminal allows users to use a terminal interface, where users can enter commands rather than use the windows interface.
 The ultimate goal for this program is to make the use of systems that have windows operating systems more efficient to use by their users.
 
-__________________________
+
 Installation Instructions:
-__________________________
+--------------------------
 
 Installing [KOS] Terminal Version 2.0: General Users:
 -----------------------------------------------------
